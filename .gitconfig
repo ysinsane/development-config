@@ -1,0 +1,11 @@
+[user]
+	name = Eason Yan
+	email = eason.yan@igarment.net
+[alias]
+	lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cd) %C(bold blue)<%an>%Creset' --abbrev-commit --date=short
+	co = checkout
+	ci = commit
+	br = branch
+	st = status
+[core]
+	excludesfile = /Users/eason/.gitignore_global

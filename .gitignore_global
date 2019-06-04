@@ -1,0 +1,9 @@
+# for vscode IDE
+.vscode
+# for try some code
+trial/
+# for environment
+venv/
+# for Mac OS X System Files
+.DS_Store
+Thumbs.db
